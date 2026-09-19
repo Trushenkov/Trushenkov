@@ -4,7 +4,7 @@
 
 **I'm a frontend developer**
 
-- 👨‍💻 I'm currently working on ООО "АйТи Софт" on position "Software Engineer"
+- 👨‍💻 I'm currently working on IT Soft LLC on position "Software Engineer"
 - 📫 You can reach me via email or Telegram.
 - Fun fact: switched to an Apple Keyboard from mechanical keyboard
 
